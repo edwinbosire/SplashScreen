@@ -3,8 +3,6 @@
 import UIKit
 import XCPlayground
 
-XCPlaygroundPage.currentPage.needsIndefiniteExecution = true
-
 //Create our screen
 let screenFrame = CGRectMake(0.0, 0.0, 375.0, 667.0)
 
