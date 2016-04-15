@@ -4,6 +4,9 @@ I've always been intrigued by Twitter's splash screen. I also wanted to prototyp
 
 ## How to run.
 
-Clone the project
+1. Clone the project
 `git clone https://github.com/edwinbosire/SplashScreen.git`
 
+2. Show the assistant editor **⌥⌘⏎ (Option + Command + Enter)**
+
+3. Execute playground Alt+CMD+Shift
