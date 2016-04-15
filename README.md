@@ -2,6 +2,8 @@
 
 I've always been intrigued by Twitter's splash screen. I also wanted to prototype something quickly using Playground. I reckon this is the best time to do all this.
 
+![gif of animation](https://github.com/edwinbosire/SplashScreen/blob/master/Resources/animation.gif)
+
 ## How to run.
 
 1. Clone the project
